@@ -183,7 +183,7 @@ Niharika_Tiwari_Customer_Churn_Retention_Analytics.ipynb
 
 In the dataset-loading cell, replace the example path with the path to your downloaded CSV:
 
-DATASET_PATH = r"C:\Users\YourName\Downloads\Telco-Customer-Churn.csv"
+DATASET_PATH = r"C:\Users\user\Downloads\archive (4)\WA_Fn-UseC_-Telco-Customer-Churn.csv"
 
 4. Run cells sequentially
 
